@@ -19,3 +19,6 @@ label{
 ul{
     list-style-type: none;
 }
+ul li{
+    margin-bottom:5px;
+    }
